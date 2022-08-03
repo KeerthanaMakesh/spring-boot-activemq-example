@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: keerthana
+Build-Jdk: 18.0.2
+Implementation-Title: spring-boot-activemq-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: spring-boot-activemq-example
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-activemq-example
+Created-By: Maven Integration for Eclipse
+
